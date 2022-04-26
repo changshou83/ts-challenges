@@ -3,14 +3,15 @@
   "version": "1.0.0",
   "description": "typescript challenge",
   "main": "index.js",
-  "types": "dist/index.d.ts",
   "scripts": {
-    "build": "tsc",
-    "build:w": "tsc -w"
+    "build": "tsc"
   },
-  "keywords": [],
-  "author": "",
-  "license": "ISC",
+  "keywords": [
+    "typescript",
+    "challenge"
+  ],
+  "author": "changshou83 <1369548156@qq.com>",
+  "license": "MIT",
   "dependencies": {
     "@type-challenges/utils": "^0.1.1"
   }
