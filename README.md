@@ -1,2 +1,9 @@
 # ts-challenges
-ts类型体操
+
+ts 类型体操
+
+## 进度
+
+- [x] hello-world
+- easy
+  - [x] 4 - MyPick
